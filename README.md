@@ -44,16 +44,9 @@
 
 ## 效果预览
 
-<table>
-  <tr>
-    <th width="50%">被试 1（S1）— 四条件叠加</th>
-    <th width="50%">被试 2（S2）— 四条件叠加</th>
-  </tr>
-  <tr>
-    <td><img src="figures/S1_all4_O1.png" alt="S1 ERP"></td>
-    <td><img src="figures/S2_all4_O1.png" alt="S2 ERP"></td>
-  </tr>
-</table>
+| 被试 1（S1）— 四条件叠加 | 被试 2（S2）— 四条件叠加 |
+|:---:|:---:|
+| ![S1 ERP](figures/S1_all4_O1.png) | ![S2 ERP](figures/S2_all4_O1.png) |
 
 被试 1 表现出清晰、稳定的 **N1–P2 复合波**；被试 2 的早期 **N1 依然存在**，但晚期成分较弱，
 这是典型的被试间差异，详见[结果](#结果)一节。
