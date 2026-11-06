@@ -1,0 +1,18 @@
+# 统一换行符，避免 Windows / macOS 提交时满屏 diff
+* text=auto eol=lf
+
+# MATLAB / Python / Markdown 按文本处理
+*.m      text
+*.py     text
+*.md     text
+*.csv    text
+
+# 二进制文件，Git 不做文本比较和差异显示
+*.png    binary
+*.jpg    binary
+*.set    binary
+*.fdt    binary
+*.mat    binary
+*.docx   binary
+*.pptx   binary
+*.zip    binary
