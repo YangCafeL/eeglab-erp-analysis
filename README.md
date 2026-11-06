@@ -46,11 +46,11 @@
 
 **被试 1（S1）— 四条件叠加**
 
-<img src="https://raw.githubusercontent.com/YangCafeL/eeglab-erp-analysis/main/figures/S1_all4_O1.png" width="49%"
+![S1 四条件 ERP](figures/S1_all4_O1.png)
 
 **被试 2（S2）— 四条件叠加**
 
-<img src="https://raw.githubusercontent.com/YangCafeL/eeglab-erp-analysis/main/figures/S2_all4_O1.png" width="49%"
+![S2 四条件 ERP](figures/S2_all4_O1.png)
 
 被试 1 表现出清晰、稳定的 **N1–P2 复合波**；被试 2 的早期 **N1 依然存在**，但晚期成分较弱，
 这是典型的被试间差异，详见[结果](#结果)一节。
